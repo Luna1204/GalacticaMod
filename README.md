@@ -1,2 +1,2 @@
 # GalacticaMod
-Galactica, A mod fot Terraria using tModLoader
+Galactica, A mod for Terraria using tModLoader
