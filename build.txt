@@ -1,0 +1,5 @@
+displayName = Galactica
+author = Darkreality, Rowing, Daniel the Angel
+version = 0.9
+includeSource = true
+includePDB = true

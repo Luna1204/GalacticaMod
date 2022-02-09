@@ -1,0 +1,29 @@
+---------Galactica 0.8-------------
+Fixed a bug where heart of the hated gave way too much damage increase
+Added fractured soul boss aswell as boss items
+Didnt add any easter eggs
+Fixed a bug with cosmic butterfly
+Starlight biome now generates closer to the stars (floating islands)
+Added a renewable way to get starlight meteor
+Nerfed the damage and skill level gain
+Added haunted blade boss making nights egde not just post skeletron
+Fixed a bug where whenever you entered the world overkill mode activated
+Added alternative ending to dark fight
+Added a few more weapons and items
+Fixed a few more bugs
+Added warning tooltip on the red button item
+Fixed bug with recipe browser not working
+Fixed bug where cosmic energy field didnt actually drop supernovae fragments
+Improved some overkill ai
+Rebalanced the dark fight
+Added soul steel and soul essence
+Added weapons made of soul steel
+Added the narrator
+Added tooltip for items the narrator can inspect
+---------Previous Versions------------
+For previous version change logs visit the discord
+---------------Info--------------------
+This mod started out as my personal project but then turned into
+a mod with a couple hundred items a few bosses and more the mod
+is in a very early stage expect to find bugs in the mod.
+https://discord.gg/vQxj35v
